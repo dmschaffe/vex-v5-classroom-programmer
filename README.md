@@ -18,6 +18,6 @@ A student-friendly VEX V5 programming environment for practicing with Blocks or 
 
 ## Live programmer
 
-[Open the VEX V5 Classroom Programmer](https://dmschaffe.github.io/vex-v5-classroom-programmer/)
+[Open the VEX V5 Classroom Programmer](https://cms-pltw.github.io/vex-v5-classroom-programmer/)
 
 The programmer is designed for classroom practice. Its simulator lets students test ideas before connecting to a physical V5 Brain.
